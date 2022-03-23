@@ -5,7 +5,7 @@ Who am I
 ----------------------------------------------------------------------------------------------------------
 Hello, I'm Bohdan Seniv.
 
-I am a frontend developer
+I am a frontend developer.
 Contact me
 If you are interested in my work or have any question or comment, please feel free to contact me anytime.
 
