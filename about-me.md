@@ -11,9 +11,9 @@ If you are interested in my work or have any question or comment, please feel fr
 
 Stack technologies
 ----------------------------------------------------------------------------------------------------------
-JavaScript
+* JavaScript
 
-React
+*React
 
 Next js
 
@@ -25,6 +25,6 @@ CSS3, SASS/LESS
 
 Styled components
 
-----------------------------------------------------------------------------------------------------------
 Education
+----------------------------------------------------------------------------------------------------------
 B.S., International logistics, Platov South-Russian State Polytechnic University (NPI), 2019-till now.
