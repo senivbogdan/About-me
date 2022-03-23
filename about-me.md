@@ -2,6 +2,7 @@
 A little bit information about me
 
 Who am I
+----------------------------------------------------------------------------------------------------------
 Hello, I'm Bohdan Seniv.
 
 I am a frontend developer
@@ -9,6 +10,7 @@ Contact me
 If you are interested in my work or have any question or comment, please feel free to contact me anytime.
 
 Stack technologies
+----------------------------------------------------------------------------------------------------------
 JavaScript
 
 React
@@ -23,6 +25,6 @@ CSS3, SASS/LESS
 
 Styled components
 
-
+----------------------------------------------------------------------------------------------------------
 Education
 B.S., International logistics, Platov South-Russian State Polytechnic University (NPI), 2019-till now.
