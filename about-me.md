@@ -13,17 +13,19 @@ Stack technologies
 ----------------------------------------------------------------------------------------------------------
 * JavaScript
 
-*React
+* React
 
-Next js
+* Next js
 
-Redux
+* Redux
 
-Redux Thunk
+* Redux Thunk
 
-CSS3, SASS/LESS
+* CSS3 
 
-Styled components
+* SASS/LESS
+
+* Styled components
 
 Education
 ----------------------------------------------------------------------------------------------------------
