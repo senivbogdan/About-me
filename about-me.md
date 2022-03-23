@@ -3,7 +3,7 @@ A little bit information about me
 
 Who am I
 ----------------------------------------------------------------------------------------------------------
-Hello, I'm Bohdan Seniv.
+Hello, I'm Bogdan Seniv.
 
 I am a frontend developer.
 Contact me
