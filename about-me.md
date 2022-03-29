@@ -29,4 +29,4 @@ Stack technologies
 
 Education
 ----------------------------------------------------------------------------------------------------------
-B.S., International logistics, Platov South-Russian State Polytechnic University (NPI), 2019-till now.
+B.S., Technology of transport processes, Platov South-Russian State Polytechnic University (NPI), 2019-till now.
